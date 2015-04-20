@@ -17,8 +17,8 @@ var path = require("path");
 
 
 
-var dataModel = new DM();
-console.log(dataModel.sayHi());
+//var dataModel = new DM();
+//console.log(dataModel.sayHi());
 
 http.listen(8080, function(){
     console.log("Listening on port 8080");
